@@ -1,6 +1,4 @@
 # CMDAProject
-<h1>Fall 2015 CMDA Project Content List</h1>
-<br>
 <br>Project directories
 <br>1. dc2010 - Directory of initial US Census files for the District of Columbia
 
